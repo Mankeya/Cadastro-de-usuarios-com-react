@@ -29,7 +29,7 @@ Para executar este projeto na sua máquina, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```sh
-    git clone [https://github.com/Mankeya/Cadastro-de-usuarios-com-react.git].git
+    git clone https://github.com/Mankeya/Cadastro-de-usuarios-com-react.git
     ```
 
 2.  **Acesse a pasta do projeto:**
